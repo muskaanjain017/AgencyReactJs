@@ -1,0 +1,22 @@
+.parentKeyFeature{
+   display: flex;
+   align-items: center;
+}
+.whyChoose{
+    background-color: #eff3f9;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: #3b82f6;
+    font: bold;
+}
+.Description{
+    display: flex;
+}
+.favImage{
+    height:30px;
+    padding-right: 20px;
+}
+.lorem{
+    color:lightgray;
+}

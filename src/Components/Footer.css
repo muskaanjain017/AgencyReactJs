@@ -1,0 +1,15 @@
+.foot{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 400px;
+}
+.grayFoot{
+    color: gray;
+}
+.footBold{
+    font-weight: 700;
+}
+.footImg{
+    margin-top: 20px;
+    text-align: right;
+}

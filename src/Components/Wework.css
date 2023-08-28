@@ -1,0 +1,28 @@
+.list{
+    margin-bottom: 30px;
+}
+.list span{
+    margin-right: 10px;
+    content: counter(item);
+    background: #3b82f6;
+    color: white;
+    width: 1.2em;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+  }
+.parentWeWork{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.leftWeWork{
+    min-width: 30%;
+}
+.rightWeWork{
+    max-width: 30%;
+}
+.rightWeWork img{
+    width:600px;
+    height:400px;
+}

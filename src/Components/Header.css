@@ -1,0 +1,116 @@
+.topSection{
+    background-color:  #eff3f9;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: medium;
+    background-color:  #eff3f9;
+    margin-bottom: 50px;
+    
+}
+ul{
+    display:flex;
+    justify-content: space-around;
+    min-width: 50%;
+}
+li{
+    list-style: none;
+}
+.navButton{
+    margin-left: 5px;
+    border-radius: 5px;
+    height: 35px;
+    width: 70px;
+}
+#login{
+    color: #3998e6;
+    border:2px solid #9cadac;
+    font-weight:bold;
+    padding: 0px 10px;
+}
+#signUp{
+    background-color: #3998e6;
+    border:2px solid #3998e6;
+    color: white;
+    font-weight: bold;
+    padding: 0px 8px;
+}
+select{
+    border: none;
+    font-size: medium;
+    background-color: #eff3f9;
+}
+.Head{
+    display: flex;
+}
+.left img,.right img{
+    min-height:250px;
+    max-height:250px;
+    min-width: 100%;
+}
+.mid{
+    background-color: #eff3f9;
+    min-width: 50%;
+    text-align: center;
+}
+.blue{
+    color: #3998e6;
+}
+.slogan{
+    color: #9cadac;
+}
+input[type="email"]{
+    background: url("https://banner2.cleanpng.com/20180718/twz/kisspng-computer-icons-stock-photography-email-clip-art-simblo-5b4faed2d78991.2976490215319487548829.jpg") no-repeat left;
+    padding-left: 25px;
+    background-size: 15px;
+  
+}
+input[type="password"]{
+    
+    background: url("https://cdn2.iconfinder.com/data/icons/web-solid/32/user-512.png") no-repeat left;
+    padding-left: 25px;
+    background-size: 15px;
+}
+.reg{
+    padding:5px 10px;
+    background-color: white !important;
+    border: 0px;
+    width: 200px;
+}
+input::placeholder{
+    font-size: 10px;
+}
+.left,.right{
+    min-width: 25%;
+}
+
+#register{
+    background-color: #3b82f6;;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #3b82f6;
+    padding: 5px 10px;
+}
+.userInput{
+    display: flex;
+    justify-content: space-between;
+}
+.curved-image{
+    width: 100%;
+    margin-top: -5px;
+}
+.event{
+    color: blue;
+    background-color: lightblue;
+    border: 1px lightblue solid;
+    padding:5px 10px;
+    border-radius: 15px;
+}
+.headline{
+    font-size: 40px;
+}
+.Curve img{
+    min-height: 100%;
+}
